@@ -1,4 +1,7 @@
-## Decimal v1.2.0 
+## Decimal v1.2.1
+- Use `github.com/bufferx/decimal` as the module
+
+## Decimal v1.2.0
 
 #### BREAKING
 - Drop support for Go version older than 1.7 [#172](https://github.com/shopspring/decimal/pull/172)
