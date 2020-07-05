@@ -1,3 +1,3 @@
-module github.com/bufferx/decimal
+module github.com/shopspring/decimal
 
 go 1.13
